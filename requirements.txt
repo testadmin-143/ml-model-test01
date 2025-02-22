@@ -20,3 +20,4 @@ youtube-transcript-api==0.6.2
 docling==2.15.1
 ollama==0.4.6
 openai==1.59.8
+streamlit==1.0.0
